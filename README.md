@@ -33,24 +33,31 @@ run SECURITY_SYSTEM_USING_SCLERA.m </pre></div>
 </li>
 <li>
 <p>Run the <a href="https://github.com/VirtualGoat/Sclera_Recognition/blob/master/SECURITY_SYSTEM_USING_SCLERA.m">SECURITY_SYSTEM_USING_SCLERA.m</a> and select the image to be authenticated.</p>
+<img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/1.JPG" width="700px" height="500px">
 </li>
 <li>
 <p>Click on Green Plane Extraction button to extract the Green plane from the image.</p>
+<img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/2.JPG" width="700px" height="500px">
 </li>
 <li>
 <p>Click on Thresholding button for Sclera segmentation.</p>
+ <img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/3.JPG" width="700px" height="500px">
 </li>
 <li>
 <p>Click on Gaussian Filter for performing feature enhancement.</p>
+ <img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/4.JPG" width="700px" height="500px">
 </li>
 <li>
 <p>Click on Vessel Segmentation to extract the vessel patterns.</p>
 </li>
 <li>
 <p>Click on Feature detection to detect features to be stored from the vessel patterns.</p>
+<img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/6.JPG" width="700px" height="500px">
 </li>
 <li>
 <p>Click on Check for Authentication to authenticate the user.</p>
+<img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/7.JPG" width="700px" height="500px">
+<img src="https://github.com/VirtualGoat/Sclera_Recognition/blob/local/Working%20SS/8.JPG" width="700px" height="500px">
 </li>
 </ol>
 
